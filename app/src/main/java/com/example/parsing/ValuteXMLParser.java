@@ -3,6 +3,7 @@ import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserFactory;
 import java.util.ArrayList;
 import java.io.StringReader;
+
 public class ValuteXMLParser {
 
         private ArrayList<Valute> ValCurs;

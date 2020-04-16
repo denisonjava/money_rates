@@ -1,3 +1,33 @@
 <resources>
-    <string name="app_name">Parsing</string>
+    <string name="app_name">Курс Рубля ЦБ РФ</string>
+    <string name="title_activity_main">Курс Рубля ЦБ РФ</string>
+    <string name="refresh">Обновить курс</string>
+    <string name="example_text_textview">ABC</string>
+    <string name="calc">Конвертация</string>
+    <string name="settings">Настройки</string>
+    <string name="list">Курс</string>
+    <string name="prompt_text">Выберите валюту:</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="rates">Курс к рублю на:</string>
+    <string name="face_value">Номинал</string>
+    <string name="currency_code">Код валюты</string>
+    <string name="favorite">Дата</string>
+    <string name="content_description_favorite">Выберите дату</string>
+
+
 </resources>

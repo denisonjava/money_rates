@@ -1,0 +1,16 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/listValute"
+        android:icon="@drawable/ic_menu_24px"
+        android:title="@string/list" />
+    <item
+        android:id="@+id/conversionValute"
+        android:icon="@drawable/ic_dialpad_24px"
+        android:title="@string/calc" />
+<!--    <item-->
+<!--        android:id="@+id/settings"-->
+<!--        android:icon="@drawable/ic_settings_24px"-->
+<!--        android:title="@string/settings" />-->
+     />
+</menu>
